@@ -82,7 +82,7 @@ Ship it.
 
 ### 🌐 find me
 
-**Website** → https://nexivo-web.netlify.app/
+**Website** → https://www.studionexivo.com/
 
 **GitHub** → `Nottherightheadyouwant`
 
